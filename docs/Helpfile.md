@@ -1,11 +1,11 @@
-# BusyParser Help Guide
+# Busy Help Guide
 
 ## Overview
 BusyParser is a flexible file processing utility designed to parse and transform `.op` files through a transaction-based approach.
 
 ## Installation
 ```bash
-go install github.com/LynnColeArt/busyparser
+go install github.com/LynnColeArt/Busy
 ```
 
 ## Usage Patterns
