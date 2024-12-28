@@ -87,9 +87,4 @@ along with Busy. If not, see <https://www.gnu.org/licenses/>.
 For questions, feedback, or support:
 - Email: LynnColeArt@Gmail.com
 
-## Roadmap
-Check out our long-term goals document for insights into the future of Busy.
-
----
-
 **Busy: Empowering AI Agents in Software Development**
